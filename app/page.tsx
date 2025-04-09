@@ -21,7 +21,7 @@ export default function Home() {
           onClick={handleClick}
           className="bg-pink-500 text-white px-8 py-3 rounded-full shadow-lg hover:bg-pink-600 text-xl transition-all"
         >
-          Wajib di klik nah ! 🎁🗿
+          Wajib di klik nah ! 🗿
         </button>
       ) : (
         <div className="flex flex-col items-center animate-slow-fade">
